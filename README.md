@@ -11,5 +11,5 @@ pip install tk
 ## Running the app
 
 ```sh
-python calculator.py
+python Calculator.py
 ```
